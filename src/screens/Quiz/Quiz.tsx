@@ -6,7 +6,7 @@ import { Card } from "../../components/ui/card";
 import { RadioGroup, RadioGroupItem } from "../../components/ui/radio-group";
 import { Button } from "../../components/ui/button";
 import { Progress } from "../../components/ui/progress";
-import Loading from "../../components/Loading/Loading";
+import { Loading } from "../../components/Loading/Loading";
 import Container from "../../components/Container/Container";
 import confetti from "canvas-confetti";
 import { motion, AnimatePresence } from "framer-motion";
